@@ -3,7 +3,7 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'app-root',
   template:  `
-    <app-logo [src]="logoSrc" (logoClicked)="onLogoClicked()"></app-logo>
+    Hello World
   `,
   styleUrls: ['./app.component.css']
 })
